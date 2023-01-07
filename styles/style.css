@@ -69,18 +69,22 @@ section {
     font-size: 18px;
     color: #444343;
 }
-.checklist li{
+
+.checklist li {
     padding-bottom: 10px;
 }
-.fa-check{
+
+.fa-check {
     color: lightgreen;
 }
-.self-dev-img{
+
+.self-dev-img {
     height: 450px;
 }
+
 .arrow-icon {
-	width: 45px;
-	float: left;
+    width: 45px;
+    float: left;
     padding-right: 30px;
 
 }

@@ -124,7 +124,7 @@ section {
 /* Footer Section */
 .footer-section {
     display: flex;
-    background-color: black;
+    background-color: #151414;
     color: #FFFFFF;
 }
 
@@ -167,10 +167,10 @@ section {
 
 .ft-item-2 input {
     border-radius: 5px;
-    width: 220px;
+    width: 240px;
     height: 50px;
     margin-bottom: 15px;
     outline: none;
-    background-color: black;
+    background: transparent;
     border: 1px solid #F3F3F3;
 }

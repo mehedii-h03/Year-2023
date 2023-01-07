@@ -5,7 +5,7 @@
 }
 
 section {
-    margin: 130px 140px;
+    margin: 130px 100px;
 }
 
 /* Banner Section */
@@ -28,7 +28,6 @@ section {
 }
 
 .description {
-    font-size: 18px;
     color: #444343;
     padding-bottom: 30px;
 }
@@ -104,7 +103,7 @@ section {
     background-image: url("../images/watch.png"),
         linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     background-blend-mode: overlay;
-    height: 280px;
+    height: 250px;
     border-radius: 10px;
     padding: 90px 63px;
     box-sizing: border-box;
@@ -143,7 +142,7 @@ section {
 
 .ft-description {
     padding-bottom: 20px;
-    width: 40%;
+    width: 60%;
     color: #FFFFFF;
 }
 

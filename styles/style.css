@@ -70,8 +70,8 @@ section {
 }
 
 
-/* my plans */
-.plan-heading {
+/* My Plans */
+.plans-heading {
     text-align: center;
     padding-bottom: 60px;
 }
@@ -97,7 +97,7 @@ section {
     font-weight: bold;
 }
 
-/* Banner Section */
+/* Gradient Section */
 .gradient {
     background-image: url("../images/watch.png"),
         linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);

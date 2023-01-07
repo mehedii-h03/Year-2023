@@ -17,6 +17,10 @@ section {
     text-align: right;
 }
 
+.banner-sub-section {
+    width: 100%;
+}
+
 .banner-title {
     font-size: 50px;
     font-weight: 900;
@@ -25,11 +29,8 @@ section {
 
 .description {
     font-size: 18px;
-    width: 40%;
     color: #444343;
     padding-bottom: 20px;
-    text-align: right;
-    /* display: inline-block; */
 }
 
 .btn {
@@ -99,7 +100,7 @@ section {
 /* Banner Section */
 .gradient {
     background-image: url("../images/watch.png"),
-    linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+        linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     background-blend-mode: overlay;
     width: 1080px;
     height: 280px;
@@ -107,13 +108,69 @@ section {
     padding: 90px 63px;
     box-sizing: border-box;
 }
-.gradient h2{
+
+.gradient h2 {
     font-size: 35px;
     color: white;
     padding-bottom: 20px;
 }
-.btn-primary{
+
+.btn-primary {
     background-color: #FFFFFF;
     color: #F15B22;
     ;
+}
+
+/* Footer Section */
+.footer-section {
+    display: flex;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.footer-items {
+    display: flex;
+    box-sizing: border-box;
+    width: 80%;
+}
+
+.ft-item-1 h2 {
+    font-size: 35px;
+    color: #F8F8F8;
+    padding-bottom: 20px;
+}
+
+.ft-description {
+    padding-bottom: 20px;
+    width: 40%;
+    color: #FFFFFF;
+}
+
+.ft-contact {
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+.ft-icons {
+    padding: 30px 0;
+}
+
+.ft-icons img {
+    padding-right: 20px;
+}
+
+.ft-item-2 h2 {
+    font-size: 25px;
+    color: #F8F8F8;
+    padding-bottom: 20px;
+}
+
+.ft-item-2 input {
+    border-radius: 5px;
+    width: 220px;
+    height: 50px;
+    margin-bottom: 15px;
+    outline: none;
+    background-color: black;
+    border: 1px solid #F3F3F3;
 }

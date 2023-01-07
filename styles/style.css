@@ -78,6 +78,12 @@ section {
 .self-dev-img{
     height: 450px;
 }
+.arrow-icon {
+	width: 45px;
+	float: left;
+    padding-right: 30px;
+
+}
 
 /* My Plans */
 .plans-heading {

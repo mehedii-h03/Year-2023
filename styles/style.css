@@ -72,6 +72,9 @@ section {
 .checklist li{
     padding-bottom: 10px;
 }
+.fa-check{
+    color: lightgreen;
+}
 .self-dev-img{
     height: 450px;
 }
@@ -84,7 +87,7 @@ section {
 
 .plan-title {
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 700;
     padding: 15px 0 5px;
 }
 
@@ -100,7 +103,7 @@ section {
 .plan-sub-title {
     font-size: 20px;
     color: #737272;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 /* Gradient Section */
